@@ -2032,11 +2032,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erick.furtado\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
+      "projectUniqueName": "C:\\Teste\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
       "projectName": "SuperHeroAPI",
-      "projectPath": "C:\\Users\\erick.furtado\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
+      "projectPath": "C:\\Teste\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
       "packagesPath": "C:\\Users\\erick.furtado\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erick.furtado\\SuperHeroAPI\\SuperHeroAPI\\obj\\",
+      "outputPath": "C:\\Teste\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erick.furtado\\AppData\\Roaming\\NuGet\\NuGet.Config",

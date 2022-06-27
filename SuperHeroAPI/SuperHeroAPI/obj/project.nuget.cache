@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7wjucF/ORrHtZUWo5L8gx0nQJrSuru9RbpY0pn+yIsBkO/Ew4CfumQnoLnq2/cVDm4MaLQ8xR9qQv6kGlPsjoA==",
+  "dgSpecHash": "t9DT0fcjcGunATh2QFonHZl8AZ3f5cMORISeohOYL9iszg+Zm0XpZQT9MdqFhhvpRmhXO/QPPudUGpWPg65iBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erick.furtado\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
+  "projectFilePath": "C:\\Teste\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI\\SuperHeroAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erick.furtado\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\erick.furtado\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
